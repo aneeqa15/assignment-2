@@ -1,2 +1,2 @@
-# assignment-2
+# assignments
 assignment by instructor
